@@ -27,7 +27,7 @@ git clone https://github.com/RudySource/Flutter_Lab3
 ```
 
 2. Перейти в папку проекта
-   `cd Flutter_Lab2`
+   `cd Flutter_Lab3`
 3. Установить зависимости
 
 ```
